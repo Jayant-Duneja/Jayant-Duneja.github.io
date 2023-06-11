@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software Engineer - 2
-description: Interned with the Google Maps team to build a Time Lapse Visualizer for customizable geographic datasets.
+description: Working in the Finance Connected Platform team as a Software Engineer
 img: /assets/img/walmart.jpg
 timeline: "July 2022 - July 2023"
 date: "11-06-2023"
