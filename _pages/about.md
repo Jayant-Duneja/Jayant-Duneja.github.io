@@ -2,25 +2,23 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Masters Student at UC Boulder
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile-pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    Boulder, Colorado, 
+    United States of America
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello I am Jayant, a B. Tech. in Electronics and Communication Engineering from IIIT Hyderabad. I am currently enrolled in the Ms in Computer Science program as University of Colorado, Boulder and will be starting my school in Aug 2023. Previously, I have worked in Walmart Labs at Bangalore, India as a Software Engineer for 1 year. I am well acquainted with programming lanugages like C, Python and Java and have some experience with Computer Vision and Natural Language Processing. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Apart from work, I sports, football being my most favourite. When not working, I can be found either watching a football match or beating some one at a game of fifa! 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
