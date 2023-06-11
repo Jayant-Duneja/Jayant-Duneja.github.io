@@ -3,10 +3,10 @@ layout: page
 title: Software Engineering Intern
 description: Interned with the Google Maps team to build a Time Lapse Visualizer for customizable geographic datasets.
 
-img: /assets/img/Google-logo.jpg
+img: /assets/img/walmart.jpg
 timeline: "May 2021 - July 2021"
 date: "11-06-2023"
-importance: 1
+importance: 2
 display-description: ""
 ---
 

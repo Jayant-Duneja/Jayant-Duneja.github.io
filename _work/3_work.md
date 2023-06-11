@@ -3,10 +3,10 @@ layout: page
 title: Undergraduate Researcher
 description: Interned with the Google Maps team to build a Time Lapse Visualizer for customizable geographic datasets.
 
-img: /assets/img/Google-logo.jpg
+img: /assets/img/cvit.jpeg
 timeline: "January 2022 -October 2022"
 date: "11-06-2023"
-importance: 1
+importance: 3
 display-description: ""
 ---
 
