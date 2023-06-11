@@ -1,20 +1,17 @@
 ---
 layout: page
-title: Google STEP Intern
+title: Undergraduate Researcher
 description: Interned with the Google Maps team to build a Time Lapse Visualizer for customizable geographic datasets.
 
 img: /assets/img/Google-logo.jpg
-timeline: "Jun-July 2020"
-date: "01-06-2020"
+timeline: "January 2022 -October 2022"
+date: "11-06-2023"
 importance: 1
 display-description: ""
 ---
 
 
-Worked with the Google Maps team to build a Time Lapse Visualization web application for customizable geographic datasets.
+Improving the pipeline for generating bounding boxes of Meronym‐ Net, a controllable multi‐category object generation model using
+Computer Vision Techniques.
 
-Features include viewing default visualisations, creating a new personalised project
-page by uploading a data file, timeslider to view the trends in data over time, viewing a
-
-***Tech Stack:***
-> ReactJS, Django REST frameworks, GMaps API
+Conducted various experiments on the model by altering the existing structure of the model, introducing new losses, and tuning vari‐ ous hyper‐parameters to obtain better accuracies.

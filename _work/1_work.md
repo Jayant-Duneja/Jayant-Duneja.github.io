@@ -1,20 +1,17 @@
 ---
 layout: page
-title: Google STEP Intern
+title: Software Engineer - 2
 description: Interned with the Google Maps team to build a Time Lapse Visualizer for customizable geographic datasets.
-
 img: /assets/img/Google-logo.jpg
-timeline: "Jun-July 2020"
-date: "01-06-2020"
+timeline: "July 2022 - July 2023"
+date: "11-06-2023"
 importance: 1
 display-description: ""
 ---
 
 
-Worked with the Google Maps team to build a Time Lapse Visualization web application for customizable geographic datasets.
+Developed an event‐driven architecture for data pipelines using Java, SpringBoot and Google PubSub. Helped automate ∼75 work‐ flows with the help of this architecture. Added unit tests and logic using technologies like Junit and Sonarqube
 
-Features include viewing default visualisations, creating a new personalised project
-page by uploading a data file, timeslider to view the trends in data over time, viewing a
-
+Designed and implemented pipelines within Azure Data Factory to facilitate the simulation of ETL (Extract, Transform, Load) processes.
 ***Tech Stack:***
-> ReactJS, Django REST frameworks, GMaps API
+> Java, SpringBoot, Google PubSub, Sonar, Azure Data Factory

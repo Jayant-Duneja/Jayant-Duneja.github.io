@@ -1,20 +1,20 @@
 ---
 layout: page
-title: Google STEP Intern
+title: Software Engineering Intern
 description: Interned with the Google Maps team to build a Time Lapse Visualizer for customizable geographic datasets.
 
 img: /assets/img/Google-logo.jpg
-timeline: "Jun-July 2020"
-date: "01-06-2020"
+timeline: "May 2021 - July 2021"
+date: "11-06-2023"
 importance: 1
 display-description: ""
 ---
 
+Worked in the Customer Experience Team that focuses on providing
+a one stop solution to business for transaction related communica‐
+tion across all channels.
 
-Worked with the Google Maps team to build a Time Lapse Visualization web application for customizable geographic datasets.
 
-Features include viewing default visualisations, creating a new personalised project
-page by uploading a data file, timeslider to view the trends in data over time, viewing a
-
+Developed and tested a Command Line Interface tool in Python to reduce lookup time and automate the examination of error logs on Splunk Dashboard with the help of API Calls; Was awarded with PPO based on my performance
 ***Tech Stack:***
-> ReactJS, Django REST frameworks, GMaps API
+> Python, Splunk, RestAPI
