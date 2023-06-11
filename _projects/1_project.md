@@ -1,12 +1,13 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Large Prime Generator
+description: Implemented prime number identifier by creating a server for computation and a dynamic set of workers to test primality us‐ ing the Rabin‐Miller test and multi‐processing library in Python.
 img: assets/img/12.jpg
 importance: 1
 category: work
+redirect: https://github.com/Jayant-Duneja/Distributed-search-for-large-primes
 ---
-
+<!-- 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
@@ -77,4 +78,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->

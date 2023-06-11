@@ -1,13 +1,14 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Image Style Transfer
+description: Transferring the style of a reference/style image in one domain to another image, to ’paint’ the input image in the style of the reference image, using Deep Learning.
 img: assets/img/3.jpg
 importance: 2
 category: work
+redirect: https://github.com/Computer-Vision-IIITH-2021/project-kamble-carry
 ---
 
-Every project has a beautiful feature showcase page.
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -77,4 +78,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->
