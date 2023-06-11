@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software Engineering Intern
-description: Interned with the Customer Experience Team to CLI to interact with the Splunk Dashboard
+description: Interned with the Customer Experience Team to create a CLI tool to interact with the Splunk Dashboard
 
 img: /assets/img/walmart.jpg
 timeline: "May 2021 - July 2021"
