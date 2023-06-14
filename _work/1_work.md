@@ -9,9 +9,8 @@ importance: 1
 display-description: ""
 ---
 
+I played a key role in developing an event-driven architecture for data pipelines using Java, SpringBoot, and Google PubSub. This architecture proved instrumental in automating approximately 75 workflows, enabling efficient and streamlined data processing. To ensure the reliability and robustness of the system, I incorporated unit tests and logic using technologies such as JUnit and SonarQube.
 
-Developed an event‐driven architecture for data pipelines using Java, SpringBoot and Google PubSub. Helped automate ∼75 work‐ flows with the help of this architecture. Added unit tests and logic using technologies like Junit and Sonarqube
-
-Designed and implemented pipelines within Azure Data Factory to facilitate the simulation of ETL (Extract, Transform, Load) processes.
+Furthermore, I took on the responsibility of designing and implementing pipelines within Azure Data Factory. These pipelines were specifically designed to facilitate the simulation of ETL (Extract, Transform, Load) processes, allowing for seamless data integration and transformation.
 ***Tech Stack:***
 > Java, SpringBoot, Google PubSub, Sonar, Azure Data Factory
