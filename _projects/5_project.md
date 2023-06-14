@@ -5,7 +5,7 @@ description: A Linux shell written in C with basic functionalities like inbuilt 
 # img: assets/img/7.jpg
 redirect: https://github.com/Jayant-Duneja/Operating-Systems
 importance: 3
-category: work
+# category: work
 ---
 
 

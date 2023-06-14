@@ -5,7 +5,7 @@ description: Implemented a novel colorization technique that propagates color ov
 # img: assets/img/7.jpg
 redirect: https://github.com/Digital-Image-Processing-IIITH/project-haripraveen_subramanian_cool_boss
 importance: 3
-category: work
+# category: work
 ---
 <!-- 
 Every project has a beautiful feature showcase page.

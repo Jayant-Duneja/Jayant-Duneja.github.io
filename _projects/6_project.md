@@ -5,7 +5,7 @@ description: Two Stage Pipelined Processor consisting of Fetch Stage and Decode/
 # img: assets/img/7.jpg
 redirect: https://github.com/Jayant-Duneja/2-Stage-Pipelined-Mips-Processsor
 importance: 3
-category: work
+# category: work
 ---
 
 

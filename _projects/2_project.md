@@ -4,7 +4,7 @@ title: Image Style Transfer
 description: Transferring the style of a reference/style image in one domain to another image, to ’paint’ the input image in the style of the reference image, using Deep Learning.
 # img: assets/img/3.jpg
 importance: 2
-category: work
+# category: work
 redirect: https://github.com/Computer-Vision-IIITH-2021/project-kamble-carry
 ---
 
