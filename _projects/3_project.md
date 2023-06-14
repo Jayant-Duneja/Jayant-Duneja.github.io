@@ -2,7 +2,7 @@
 layout: page
 title: Manga Colorization
 description: Implemented a novel colorization technique that propagates color over regions exhibiting pattern‐continuity and intensity continuity for manga comics using Python, OpenCV and Numpy
-img: assets/img/7.jpg
+# img: assets/img/7.jpg
 redirect: https://github.com/Digital-Image-Processing-IIITH/project-haripraveen_subramanian_cool_boss
 importance: 3
 category: work
