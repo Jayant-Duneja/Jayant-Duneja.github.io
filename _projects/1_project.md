@@ -4,7 +4,7 @@ title: Large Prime Generator
 description: Implemented prime number identifier by creating a server for computation and a dynamic set of workers to test primality us‐ ing the Rabin‐Miller test and multi‐processing library in Python.
 # img: assets/img/12.jpg
 importance: 1
-# category: work
+category: Projects
 redirect: https://github.com/Jayant-Duneja/Distributed-search-for-large-primes
 ---
 <!-- 

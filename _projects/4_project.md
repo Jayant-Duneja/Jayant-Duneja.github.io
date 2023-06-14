@@ -5,5 +5,5 @@ description: Constructing parallel programming solutions using message passing m
 # img: assets/img/7.jpg
 redirect: https://github.com/Jayant-Duneja/Message-Passing-Model
 importance: 3
-# category: work
+category: Projects
 ---
