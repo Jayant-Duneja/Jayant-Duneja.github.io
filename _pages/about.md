@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Masters Student at UC Boulder
+subtitle: Masters Student at CU Boulder
 
 profile:
   align: right
@@ -18,7 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello I am Jayant, a B. Tech. in Electronics and Communication Engineering from IIIT Hyderabad. I am currently enrolled in the MS in Computer Science program as University of Colorado, Boulder and will be starting my school in Aug 2023. Previously, I have worked in Walmart Labs at Bangalore, India as a Software Engineer for 1 year. I am well acquainted with programming lanugages like C, Python and Java and have some experience with Computer Vision and Natural Language Processing. 
+Hello, I am Jayant, a B. Tech. graduate in Electronics and Communication Engineering from IIIT Hyderabad. Currently, I am enrolled in the MS in Computer Science program at the University of Colorado, Boulder and will be starting in August 2023. Previously, I worked at Walmart Global Tech in Bangalore, India as a Software Engineer - 2 for one year. I am well acquainted with programming languages like C/C++, Python, and Java, and I have some experience in Computer Vision and Natural Language Processing.
 
-Apart from work, I sports, football being my most favourite. When not working, I can be found either watching a football match or beating some one at a game of fifa! 
+Apart from work, I enjoy sports, with football being my favorite. When I'm not working, you can find me either watching a football match or competing against someone in a game of FIFA.
+
 
