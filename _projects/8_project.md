@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Manga Colorization
-description: Implemented a novel colorization technique that propagates color over regions exhibiting pattern‐continuity and intensity continuity for manga comics using Python, OpenCV and Numpy
-# img: assets/img/7.jpg
-redirect: https://github.com/Digital-Image-Processing-IIITH/project-haripraveen_subramanian_cool_boss
-importance: 7
+title: CafeConnect
+description: Designed and built CafeConnect, a full-stack student restaurant review app with a notification system, utilizing Spring Boot and Java for the backend, React and Python for the front end, and Cockroach DB for data storage.
+Utilized software design patterns like MVC, Singleton, Strategy, and Observer to address complexities in the project, highlighting adaptability and problem-solving skills in software design.
+# img: assets/img/12.jpg
+importance: 2
 category: Projects
+redirect: https://github.com/Jayant-Duneja/CafeConnect
 ---
 <!-- 
 Every project has a beautiful feature showcase page.

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Manga Colorization
-description: Implemented a novel colorization technique that propagates color over regions exhibiting pattern‐continuity and intensity continuity for manga comics using Python, OpenCV and Numpy
-# img: assets/img/7.jpg
-redirect: https://github.com/Digital-Image-Processing-IIITH/project-haripraveen_subramanian_cool_boss
-importance: 7
+title: music-seperation-service
+description: This repository contains the implementation of a Kubernetes cluster providing a REST API for an automatic music separation service called Music-Separation-as-a-service (MSaaS). The provided services include a Flask backend, REST frontend, worker nodes for music analysis, a Redis database for task queuing and storage using Min.io.
+# img: assets/img/12.jpg
+importance: 4
 category: Projects
+redirect: https://github.com/Jayant-Duneja/music-seperation-service
 ---
 <!-- 
 Every project has a beautiful feature showcase page.
