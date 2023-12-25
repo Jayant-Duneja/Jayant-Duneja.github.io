@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Manga Colorization
-description: Implemented a novel colorization technique that propagates color over regions exhibiting pattern‐continuity and intensity continuity for manga comics using Python, OpenCV and Numpy
-# img: assets/img/7.jpg
-redirect: https://github.com/Digital-Image-Processing-IIITH/project-haripraveen_subramanian_cool_boss
-importance: 7
+title: Arcane
+description: Text-based RPG game featuring diverse user-controlled adventurers, various creatures to combat, a range of treasures to collect, and four distinct floors to explore. Implemented key Software design patterns, including Observer, Decorator, Singleton, Factory, and Strategy, to enhance the game's architecture and functionality.
+# img: assets/img/12.jpg
+importance: 3
 category: Projects
+redirect: https://github.com/Jayant-Duneja/Arcane
 ---
 <!-- 
 Every project has a beautiful feature showcase page.

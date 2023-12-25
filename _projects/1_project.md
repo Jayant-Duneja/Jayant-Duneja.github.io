@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Large Prime Generator
-description: Implemented prime number identifier by creating a server for computation and a dynamic set of workers to test primality us‐ ing the Rabin‐Miller test and multi‐processing library in Python.
+title: CNN Feature Visualizer
+description: Built a Python library and containerized React web app for a cloud-based CNN Feature Visualizer, enabling developers to visualize and analyze layers of CNN models for improved training and insights.
+Utilized Docker, Kubernetes, Redis, Minio, PostgreSQL, and Flask to design a scalable and distributed architecture for the CNN Feature Visualizer, facilitating efficient processing and storage of model data and visualizations.
+Deployed the CNN Feature Visualizer using Google Kubernetes Engine (GKE) cluster.
 # img: assets/img/12.jpg
-importance: 5
+importance: 1
 category: Projects
-redirect: https://github.com/Jayant-Duneja/Distributed-search-for-large-primes
+redirect: https://github.com/Jayant-Duneja/pytorch-cnn-feature-visualizer
 ---
 <!-- 
 Every project has a beautiful feature showcase page.

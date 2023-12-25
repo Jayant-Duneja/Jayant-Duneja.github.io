@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Image Style Transfer
-description: Transferring the style of a reference/style image in one domain to another image, to ’paint’ the input image in the style of the reference image, using Deep Learning.
-# img: assets/img/3.jpg
-importance: 6
+title: CafeConnect
+description: Designed and built CafeConnect, a full-stack student restaurant review app with a notification system, utilizing Spring Boot and Java for the backend, React and Python for the front end, and Cockroach DB for data storage.
+Utilized software design patterns like MVC, Singleton, Strategy, and Observer to address complexities in the project, highlighting adaptability and problem-solving skills in software design.
+# img: assets/img/12.jpg
+importance: 2
 category: Projects
-redirect: https://github.com/Computer-Vision-IIITH-2021/project-kamble-carry
+redirect: https://github.com/Jayant-Duneja/CafeConnect
 ---
-
-<!-- Every project has a beautiful feature showcase page.
+<!-- 
+Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 

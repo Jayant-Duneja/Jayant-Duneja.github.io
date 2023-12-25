@@ -1,14 +1,14 @@
 ---
 layout: page
-title: music-seperation-service
-description: This repository contains the implementation of a Kubernetes cluster providing a REST API for an automatic music separation service called Music-Separation-as-a-service (MSaaS). The provided services include a Flask backend, REST frontend, worker nodes for music analysis, a Redis database for task queuing and storage using Min.io.
-# img: assets/img/12.jpg
-importance: 4
+title: Image Style Transfer
+description: Transferring the style of a reference/style image in one domain to another image, to ’paint’ the input image in the style of the reference image, using Deep Learning.
+# img: assets/img/3.jpg
+importance: 6
 category: Projects
-redirect: https://github.com/Jayant-Duneja/music-seperation-service
+redirect: https://github.com/Computer-Vision-IIITH-2021/project-kamble-carry
 ---
-<!-- 
-Every project has a beautiful feature showcase page.
+
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 

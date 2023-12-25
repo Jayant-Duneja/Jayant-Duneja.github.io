@@ -1,13 +1,11 @@
 ---
 layout: page
-title: CNN Feature Visualizer
-description: Built a Python library and containerized React web app for a cloud-based CNN Feature Visualizer, enabling developers to visualize and analyze layers of CNN models for improved training and insights.
-Utilized Docker, Kubernetes, Redis, Minio, PostgreSQL, and Flask to design a scalable and distributed architecture for the CNN Feature Visualizer, facilitating efficient processing and storage of model data and visualizations.
-Deployed the CNN Feature Visualizer using Google Kubernetes Engine (GKE) cluster.
-# img: assets/img/12.jpg
-importance: 1
+title: Manga Colorization
+description: Implemented a novel colorization technique that propagates color over regions exhibiting pattern‐continuity and intensity continuity for manga comics using Python, OpenCV and Numpy
+# img: assets/img/7.jpg
+redirect: https://github.com/Digital-Image-Processing-IIITH/project-haripraveen_subramanian_cool_boss
+importance: 7
 category: Projects
-redirect: https://github.com/Jayant-Duneja/pytorch-cnn-feature-visualizer
 ---
 <!-- 
 Every project has a beautiful feature showcase page.
