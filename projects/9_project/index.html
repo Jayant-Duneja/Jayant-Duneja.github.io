@@ -3,16 +3,17 @@
 
   <!-- Head -->
   <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">    <!-- Metadata, OpenGraph and Schema.org -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="refresh" content="3; url=/">    <!-- Metadata, OpenGraph and Schema.org -->
     
 
     <!-- Standard metadata -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Projects | Jayant  Duneja</title>
+    <title>Arcane | Jayant  Duneja</title>
     <meta name="author" content="Jayant  Duneja">
-    <meta name="description" content="A collection of my projects.">
+    <meta name="description" content="Text-based RPG game featuring diverse user-controlled adventurers, various creatures to combat, a range of treasures to collect, and four distinct floors to explore. Implemented key Software design patterns, including Observer, Decorator, Singleton, Factory, and Strategy, to enhance the game's architecture and functionality.">
     <meta name="keywords" content="jayant, duneja, cs, uc, boulder, colorado">
 
 
@@ -38,7 +39,7 @@
     <link rel="shortcut icon" href="/assets/img//assets/img/favicon.png">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://jayant-duneja.github.io/projects/">
+    <link rel="canonical" href="https://jayant-duneja.github.io/projects/9_project/">
 
     <!-- Dark Mode -->
     
@@ -90,8 +91,8 @@
               <li class="nav-item ">
                 <a class="nav-link" href="/publications/">Publications</a>
               </li>
-              <li class="nav-item active">
-                <a class="nav-link" href="/projects/">Projects<span class="sr-only">(current)</span></a>
+              <li class="nav-item ">
+                <a class="nav-link" href="/projects/">Projects</a>
               </li>
 
               <!-- Toogle theme mode -->
@@ -122,117 +123,198 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Projects</h1>
-            <p class="post-description">A collection of my projects.</p>
+            <h1 class="post-title">Arcane</h1>
+            <p class="post-description">Text-based RPG game featuring diverse user-controlled adventurers, various creatures to combat, a range of treasures to collect, and four distinct floors to explore. Implemented key Software design patterns, including Observer, Decorator, Singleton, Factory, and Strategy, to enhance the game's architecture and functionality.</p>
           </header>
 
           <article>
-            <!-- pages/projects.md -->
-<div class="projects">
-  <!-- Display categorized projects -->
-  <h2 class="category">Projects</h2>
-  <!-- Generate cards for each project -->
-  <div class="grid">
-<!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="https://github.com/Jayant-Duneja/Arcane" rel="external nofollow noopener" target="_blank">
-      <div class="card hoverable">
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">Arcane</h2>
-          <p class="card-text">Text-based RPG game featuring diverse user-controlled adventurers, various creatures to combat, a range of treasures to collect, and four distinct floors to explore. Implemented key Software design patterns, including Observer, Decorator, Singleton, Factory, and Strategy, to enhance the game's architecture and functionality.</p>
-          <div class="row ml-1 mr-1 p-0">
-          </div>
-        </div>
-      </div>
-    </a>
+            <!-- 
+Every project has a beautiful feature showcase page.
+It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width.
+
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+
+    ---
+    layout: page
+    title: project
+    description: a project with a background image
+    img: /assets/img/12.jpg
+    ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source 
+        class="responsive-img-srcset"
+        media="(max-width: 480px)" 
+        srcset="/assets/img/1-480.webp"
+      />
+    <source 
+        class="responsive-img-srcset"
+        media="(max-width: 800px)" 
+        srcset="/assets/img/1-800.webp"
+      />
+    <source 
+        class="responsive-img-srcset"
+        media="(max-width: 1400px)" 
+        srcset="/assets/img/1-1400.webp"
+      />
+    
+
+    <!-- Fallback to the original file -->
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;img 
+  src="/assets/img/1.jpg"
+  class="img-fluid rounded z-depth-1"  
+  width="auto" 
+  height="auto" 
+   
+   
+   
+   
+   
+  title="example image" 
+  
+  onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
+/&gt;
+</code></pre></div></div>
+
+<p>&lt;/picture&gt;</p>
+
+<p>&lt;/figure&gt;</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;/div&gt;
+&lt;div class="col-sm mt-3 mt-md-0"&gt;
+    &lt;figure&gt;
+</code></pre></div></div>
+
+<picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/3-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/3-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/3-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/3.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+<p>&lt;/figure&gt;</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;/div&gt;
+&lt;div class="col-sm mt-3 mt-md-0"&gt;
+    &lt;figure&gt;
+</code></pre></div></div>
+
+<picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/5-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/5-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/5-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/5.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+<p>&lt;/figure&gt;</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;/div&gt;
+</code></pre></div></div>
+<p>&lt;/div&gt;</p>
+<div class="caption">
+    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
-<!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="https://github.com/Jayant-Duneja/music-seperation-service" rel="external nofollow noopener" target="_blank">
-      <div class="card hoverable">
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">music-seperation-service</h2>
-          <p class="card-text">This repository contains the implementation of a Kubernetes cluster providing a REST API for an automatic music separation service called Music-Separation-as-a-service (MSaaS). The provided services include a Flask backend, REST frontend, worker nodes for music analysis, a Redis database for task queuing and storage using Min.io.</p>
-          <div class="row ml-1 mr-1 p-0">
-          </div>
-        </div>
-      </div>
-    </a>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/5-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/5-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/5-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/5.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
 </div>
-<!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="https://github.com/Jayant-Duneja/Distributed-search-for-large-primes" rel="external nofollow noopener" target="_blank">
-      <div class="card hoverable">
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">Large Prime Generator</h2>
-          <p class="card-text">Implemented prime number identifier by creating a server for computation and a dynamic set of workers to test primality us‐ ing the Rabin‐Miller test and multi‐processing library in Python.</p>
-          <div class="row ml-1 mr-1 p-0">
-          </div>
-        </div>
-      </div>
-    </a>
+<div class="caption">
+    This image can also have a caption. It's like magic.
 </div>
-<!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="https://github.com/Computer-Vision-IIITH-2021/project-kamble-carry" rel="external nofollow noopener" target="_blank">
-      <div class="card hoverable">
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">Image Style Transfer</h2>
-          <p class="card-text">Transferring the style of a reference/style image in one domain to another image, to ’paint’ the input image in the style of the reference image, using Deep Learning.</p>
-          <div class="row ml-1 mr-1 p-0">
-          </div>
-        </div>
-      </div>
-    </a>
+
+<p>You can also put regular text between your rows of images.
+Say you wanted to write a little bit about your project before you posted the rest of the images.
+You describe how you toiled, sweated, <em>bled</em> for your project, and then… you reveal its glory in the next row of images.</p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/6-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/6-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/6-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/6.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/11-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/11-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/11-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/11.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
 </div>
-<!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="https://github.com/Digital-Image-Processing-IIITH/project-haripraveen_subramanian_cool_boss" rel="external nofollow noopener" target="_blank">
-      <div class="card hoverable">
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">Manga Colorization</h2>
-          <p class="card-text">Implemented a novel colorization technique that propagates color over regions exhibiting pattern‐continuity and intensity continuity for manga comics using Python, OpenCV and Numpy</p>
-          <div class="row ml-1 mr-1 p-0">
-          </div>
-        </div>
-      </div>
-    </a>
+<div class="caption">
+    You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
-<!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="https://github.com/Jayant-Duneja/Message-Passing-Model" rel="external nofollow noopener" target="_blank">
-      <div class="card hoverable">
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">Message Passing Model</h2>
-          <p class="card-text">Constructing parallel programming solutions using message passing model to certain problems and implementing them using the Message Passing Interface in C++.</p>
-          <div class="row ml-1 mr-1 p-0">
-          </div>
-        </div>
-      </div>
-    </a>
-</div>
-<!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="https://github.com/Jayant-Duneja/Operating-Systems" rel="external nofollow noopener" target="_blank">
-      <div class="card hoverable">
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">C-Shell</h2>
-          <p class="card-text">A Linux shell written in C with basic functionalities like inbuilt commands (eg. ls cd, echo and pwd) along with user-defined functions.</p>
-          <div class="row ml-1 mr-1 p-0">
-          </div>
-        </div>
-      </div>
-    </a>
-</div>
-  </div>
-</div>
+
+<p>The code is simple.
+Just wrap your images with <code class="language-plaintext highlighter-rouge">&lt;div class="col-sm"&gt;</code> and place them inside <code class="language-plaintext highlighter-rouge">&lt;div class="row"&gt;</code> (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/" rel="external nofollow noopener" target="_blank">Bootstrap Grid</a> system).
+To make images responsive, add <code class="language-plaintext highlighter-rouge">img-fluid</code> class to each; for rounded corners and shadows use <code class="language-plaintext highlighter-rouge">rounded</code> and <code class="language-plaintext highlighter-rouge">z-depth-1</code> classes.
+Here’s the code for the last row of images above:</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"row justify-content-sm-center"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"col-sm-8 mt-3 mt-md-0"</span><span class="nt">&gt;</span>
+        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <span class="nt">&lt;/div&gt;</span>
+    <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"col-sm-4 mt-3 mt-md-0"</span><span class="nt">&gt;</span>
+        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <span class="nt">&lt;/div&gt;</span>
+<span class="nt">&lt;/div&gt;</span>
+</code></pre></div></div>
+<p>–&gt;</p>
 
           </article>
 
