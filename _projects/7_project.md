@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Manga Colorization
 description: Implemented a novel colorization technique that propagates color over regions exhibiting pattern‐continuity and intensity continuity for manga comics using Python, OpenCV and Numpy
@@ -78,4 +78,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %} -->
+{% endraw %} --> -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: C-Shell
 description: A Linux shell written in C with basic functionalities like inbuilt commands (eg. ls cd, echo and pwd) along with user-defined functions.
@@ -10,4 +10,4 @@ category: Projects
 
 
 
-
+ -->
